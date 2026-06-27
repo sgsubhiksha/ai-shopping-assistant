@@ -1,0 +1,8 @@
+venv/
+.env
+__pycache__/
+*.pyc
+product_index.faiss
+products.pkl
+archive/
+archive.zip
